@@ -1,3 +1,7 @@
+# Contexte
+
+Petit projet pour prendre en main  firebase et son authetification avec google
+
 # Firebasedemo
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
